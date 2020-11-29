@@ -1,0 +1,29 @@
+{
+    "name": "wael/category",
+    "description": "First Test Package",
+    "keywords": [
+        "test",
+        "test double",
+        "testing"
+    ],
+    "homepage": "https://github.com/mockery/mockery",
+    "type":"package",
+	"license": "MIT",
+	"version":"1.0",
+    "authors": [
+        {
+            "name": "Wael Mohamed Serag",
+            "email": "waelserag1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "wael\\category\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+
+}
