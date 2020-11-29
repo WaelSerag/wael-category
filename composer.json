@@ -6,7 +6,6 @@
         "test double",
         "testing"
     ],
-    "homepage": "https://github.com/mockery/mockery",
     "type":"package",
 	"license": "MIT",
 	"version":"1.0",
@@ -24,6 +23,5 @@
             "wael\\category\\": "src/"
         }
     },
-    "minimum-stability": "dev"
-
+    "minimum-stability":"dev"
 }
