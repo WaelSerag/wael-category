@@ -8,7 +8,7 @@
     ],
     "type":"package",
 	"license": "MIT",
-	"version":"1.0",
+	"version":"^1.0@dev",
     "authors": [
         {
             "name": "Wael Mohamed Serag",
